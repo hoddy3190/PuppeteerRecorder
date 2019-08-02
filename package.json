@@ -1,0 +1,24 @@
+{
+  "name": "puppeteerrecorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "puppeteer": "^1.19.0",
+    "puppeteer-recorder": "^1.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hoddy3190/PuppeteerRecorder.git"
+  },
+  "author": "Hodaka Suzuki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoddy3190/PuppeteerRecorder/issues"
+  },
+  "homepage": "https://github.com/hoddy3190/PuppeteerRecorder#readme"
+}
